@@ -1,0 +1,123 @@
+﻿Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Service WindowsServiceTutorials has been successfully installed.
+Creating EventLog source WindowsServiceTutorials in log Application...
+Committing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Creating EventLog source WindowsServiceTutorials in log Application...
+Rolling back assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Restoring event log to previous state for source WindowsServiceTutorials.
+Uninstalling assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Removing EventLog source WindowsServiceTutorials.
+Service WindowsServiceTutorials is being removed from the system...
+Service WindowsServiceTutorials was successfully removed from the system.
+Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Creating EventLog source WindowsServiceTutorials in log Application...
+Rolling back assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Restoring event log to previous state for source WindowsServiceTutorials.
+Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Service WindowsServiceTutorials has been successfully installed.
+Creating EventLog source WindowsServiceTutorials in log Application...
+Committing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Uninstalling assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Removing EventLog source WindowsServiceTutorials.
+Service WindowsServiceTutorials is being removed from the system...
+Service WindowsServiceTutorials was successfully removed from the system.
+Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Service WindowsServiceTutorials has been successfully installed.
+Creating EventLog source WindowsServiceTutorials in log Application...
+Committing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Uninstalling assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Removing EventLog source WindowsServiceTutorials.
+Service WindowsServiceTutorials is being removed from the system...
+Service WindowsServiceTutorials was successfully removed from the system.
+Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Service WindowsServiceTutorials has been successfully installed.
+Creating EventLog source WindowsServiceTutorials in log Application...
+Committing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Uninstalling assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Removing EventLog source WindowsServiceTutorials.
+Service WindowsServiceTutorials is being removed from the system...
+Service WindowsServiceTutorials was successfully removed from the system.
+Installing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+Installing service WindowsServiceTutorials...
+Service WindowsServiceTutorials has been successfully installed.
+Creating EventLog source WindowsServiceTutorials in log Application...
+Committing assembly 'C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.InstallLog
+   assemblypath = C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe

@@ -1,0 +1,9 @@
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe.config
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.exe
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\bin\Debug\WindowsServiceTutorials.pdb
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\obj\Debug\WindowsServiceTutorials.csproj.AssemblyReference.cache
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\obj\Debug\WindowsServiceTutorials.ProjectInstaller.resources
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\obj\Debug\WindowsServiceTutorials.csproj.GenerateResource.cache
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\obj\Debug\WindowsServiceTutorials.csproj.CoreCompileInputs.cache
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\obj\Debug\WindowsServiceTutorials.exe
+C:\MyFolders\Work\WindowsServices\WindowsServiceTutorials\WindowsServiceTutorials\obj\Debug\WindowsServiceTutorials.pdb
